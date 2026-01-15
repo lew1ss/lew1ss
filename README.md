@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" alt="Banner" />
+  <img src="./banner.jfif" alt="Banner" />
 </p>
 
 # Hi 👋 I'm Ata
