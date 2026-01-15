@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" alt="Ata Banner" />
+  <img src="./banner.png" alt="Banner" />
 </p>
 
 # Hi 👋 I'm Ata
