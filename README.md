@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.png" alt="Ata Banner" />
+</p>
+
 # Hi 👋 I'm Ata
 
 Junior Full Stack Developer (Backend-oriented)
