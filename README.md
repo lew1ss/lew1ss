@@ -60,6 +60,10 @@ so the repositories here are personal projects built to showcase my skills and a
 - Improving code quality, readability and scalability
 - Preparing for the transition from Junior to Mid-level developer
 
+## 📊 GitHub Activity
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=lew1ss&show_icons=true&theme=default)
+
 ## 📫 Contact
 
 - Mail: [Mail Me!](mailto:ataertrk@gmail.com)
