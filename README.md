@@ -62,7 +62,7 @@ so the repositories here are personal projects built to showcase my skills and a
 
 ## 📊 GitHub Activity
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=lew1ss&show_icons=true&theme=default)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=lew1ss&show_icons=true&theme=default&count_private=true&include_all_commits=true)
 
 ## 📫 Contact
 
