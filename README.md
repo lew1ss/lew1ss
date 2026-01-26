@@ -2,18 +2,20 @@
   <img src="./banner.jfif" alt="Banner" />
 </p>
 
+> Backend-focused developer passionate about secure, real-world systems built with Node.js & PostgreSQL.
+
 # Hi 👋 I'm Ata
 
 Junior Full Stack Developer (Backend-oriented)
 
-I develop web applications using Node.js, PostgreSQL and modern frontend technologies.
-I have real-world experience in institutional projects and enjoy building secure, scalable systems.
+I build backend-focused web applications using Node.js and PostgreSQL.
+I have real-world experience developing secure, scalable internal systems used in institutional environments.
 
 ## 👨‍💻 About Me
 
 - 🎓 Computer Programming graduate (2-year degree)
 - 💼 Working as a Software Support Specialist in a public institution
-- 🏛️ Developed and deployed internal web systems used by real users
+- 🏛️ Developed and deployed internal web systems used by real users, handling authentication, roles and data integrity
 - 🔐 Focused on backend development, security and database design
 - 🚀 Currently improving my React skills to strengthen my frontend side
 
@@ -21,15 +23,16 @@ I have real-world experience in institutional projects and enjoy building secure
 
 **Frontend**
 - HTML, CSS, JavaScript
-- React (learning & building projects)
+- React (actively learning & building full stack projects)
 
 **Backend**
 - Node.js (Express)
 - RESTful APIs
 - Authentication & Authorization (JWT, Sessions)
+- Secure API design
 
 **Database**
-- PostgreSQL
+- PostgreSQL (schema design, relations, queries)
 
 **Tools & Others**
 - Git & GitHub
@@ -43,15 +46,22 @@ I focus on:
 - Secure backend architecture
 - Proper separation of concerns
 - Real-world problem solving
+- Designing systems with maintainability and future scaling in mind
 
 Most of my professional projects are internal institutional systems,
 so the repositories here are personal projects built to showcase my skills and architecture decisions.
 
 ## 📌 Featured Projects
 
-🚧 Projects are being prepared and will be added soon.
+🚧 New projects are currently under development.
 
-(Currently working on personal full stack applications to showcase my backend-focused approach.)
+I am building backend-heavy full stack applications focused on:
+- authentication & authorization
+- role-based access control
+- clean architecture
+- PostgreSQL data modeling
+
+They will be published here as public showcase projects.
 
 ## 🎯 Currently Focusing On
 
