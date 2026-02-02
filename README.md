@@ -75,6 +75,8 @@ They will be published here as public showcase projects.
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=lew1ss&theme=github)
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lew1ss&theme=github)
 
+- 800+ contributions in the last year(2025)
+
 ## 📫 Contact
 
 - Mail: [Mail Me!](mailto:ataertrk@gmail.com)
