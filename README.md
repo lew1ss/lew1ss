@@ -2,7 +2,7 @@
   <img src="./banner.jfif" alt="Banner" />
 </p>
 
-> Backend-focused developer passionate about secure, real-world systems built with Node.js & PostgreSQL.
+> Backend-focused developer passionate about secure, real-world systems built with Node.js & React & PostgreSQL.
 
 # Hi 👋 I'm Ata
 
